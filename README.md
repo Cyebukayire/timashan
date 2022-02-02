@@ -1,6 +1,6 @@
 # TIMΛƧHΛN
 - 👋 Hi, I’m @timashan
-- 👀 I’m interested in HTML, CSS, JS, SASS, C , C++ , C#, JAVA, Android
+- 👀 I’m interested in JS, CSS/SASS, C , C++ , C#, JAVA, Android
 - 🌱 I’m currently learning SASS
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me kavishkatimashan@gmail.com
