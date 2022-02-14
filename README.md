@@ -10,6 +10,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO,+MY+NAME+===+TIMΛƧHΛN;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=timashan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
+
+<!-- ./STAT -->
+<div align="center">  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=timashan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Timashan github stats" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timashan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+<!-- ./STATS -->
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=timashan&theme=react-dark&hide_border=true&area=true)
+
 <div align="center">  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -33,17 +44,6 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </div>
-
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=timashan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
-
-<!-- ./STAT -->
-<div align="center">  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=timashan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Timashan github stats" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timashan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-<!-- ./STATS -->
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=timashan&theme=react-dark&hide_border=true&area=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer"/>
 
