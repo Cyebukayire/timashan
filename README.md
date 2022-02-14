@@ -1,4 +1,4 @@
-# TIMΛƧHΛNs_W$RLD
+# TIMΛƧHΛN$_WRLD
 <!-- - 👋 Hi, I’m @timashan
 - 👀 I’m interested in JS, CSS/SASS, C , C++ , C#, JAVA, Android
 - 🌱 I’m currently learning SASS
