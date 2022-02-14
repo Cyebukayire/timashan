@@ -8,7 +8,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi+the&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer) -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=280&section=header&text=TIMΛƧHΛN$_WRLD&fontSize=50"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=header&text=TIMΛƧHΛN$_WRLD&fontSize=50&fontColor=fff"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+===+TIMΛƧHΛN;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26%26+STAR;THNX+:%29)](https://git.io/typing-svg)
 
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <!-- | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=timashan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Timashan github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timashan&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" /></a> |
 | ------------- | ------------- | -->
