@@ -5,6 +5,8 @@
 - 💞️ I’m looking to collaborate on web app & platform development 
 - 📫 How to reach me kavishkatimashan@gmail.com -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO,+MY+NAME+===+TIMΛƧHΛN;I+SPECIALIZE+===+WEB+DEVELOPMENT;I+EXPERTISE+>+4+YEARS+IN+PROGRAMMING;IF+(LIKE+MY+WORK)+FOLLOW+%26+STAR;THNX+:%29)](https://git.io/typing-svg)
+
 <div align="center">  
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
